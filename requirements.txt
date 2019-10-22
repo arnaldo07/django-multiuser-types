@@ -67,7 +67,7 @@ olefile==0.44
 openpyxl==2.4.8
 paramiko==1.16.0
 pexpect==4.0.1
-Pillow==4.3.0
+Pillow==6.2.0
 pinax-eventlog==1.1.2
 pinax-theme-bootstrap==7.10.1
 pinax-webanalytics==2.0.4
